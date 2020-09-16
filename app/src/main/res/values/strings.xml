@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DesignActivity2</string>
+    <string name="subject">Subject</string>
+    <string name="compose_email">Compose Email</string>
+    <string name="submit">Submit</string>
+    <string name="message">Message</string>
+</resources>
